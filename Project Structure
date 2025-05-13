@@ -1,0 +1,10 @@
+ecommerce-website/
+├── index.html
+├── products.html
+├── contact.html
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+└── images/
+    └── (your product images go here)
