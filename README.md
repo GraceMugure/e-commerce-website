@@ -1,6 +1,6 @@
 # E-Commerce Website
 
-An e-commerce website built with **React** and **Tailwind CSS**, offering a smooth shopping experience with a modern UI.
+An e-commerce website built with HTML, CSS and JavaScript, offering a smooth shopping experience with a modern UI.
 
 
 ## 📋 Features
